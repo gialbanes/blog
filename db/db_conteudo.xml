@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>  <!--cabeçalho-->
+<conteudo>
+     <postagem codigo="1"> >  <!--tabela-->
+         <titulo>Notícia 1</titulo>
+         <corpo>A Ciência da Computação teve seu início com a 
+         Máquina de Turing, um dispositivo teórico computacional,
+          que era um modelo abstrato do então conhecido computador. 
+          O desenvolvimento da Máquina de Turing se restringiu aos 
+          aspectos lógicos do funcionamento do computador, ou seja,
+           memória, estados e transições.</corpo>
+         <imagem_1 fileName="img_a.jpg">img_a.jpg</imagem_1>
+     </postagem>
+     <postagem codigo="2">
+         <titulo>Notícia 2</titulo>
+         <corpo>Vamos direto pra mais polêmica. Computação e computadores
+          são coisas diferentes. Se você quer aprender a “mexer” em 
+          computadores, dar manutenção neles ou ser especialista em algum 
+          software, Ciência da Computação vai ser uma perda de tempo. 
+          Computação é um conceito matemático, e, antes de tudo, uma ciência.
+           O curso é baseado em como fazer computação, enquanto que um computador
+            é o que faz a computação. Apesar de relação, são coisas muito diferentes.</corpo>
+         <imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+     </postagem>
+     <postagem codigo="3">
+         <titulo>Notícia 3</titulo>
+         <corpo>Uma boa média salarial certamente é um dos atrativos da profissão,
+          transformando a carreira na área em uma tendência. A média salarial de 
+          um gerente de TI, de acordo com o site Catho, é de R$9.145,13. Um valor
+           interessante, não é? Agora que você entendeu os motivos pelos quais essa 
+           carreira é uma tendência, saiba mais sobre como é o curso de Ciência da 
+           Computação em Curitiba.</corpo>
+         <imagem_1 fileName="img_c.jpg">img_c.jpg</imagem_1>
+     </postagem>
+     <postagem codigo="4">
+         <titulo>Notícia 4</titulo>
+         <corpo>Um cientista da computação, como é chamado o profissional formado 
+         em Ciência da Computação, pode ser contratado para trabalhar em uma equipe 
+         de desenvolvedores, criando software de acordo com a necessidade dos clientes.
+          Também pode atuar no departamento de Pesquisa e Desenvolvimento (P&D)de uma 
+          empresa.</corpo>
+         <imagem_1 fileName="img_d.jpg">img_d.jpg</imagem_1>
+     </postagem>
+     <postagem codigo="5">
+         <titulo>Notícia 5</titulo>
+         <corpo>Ciência da computação é a ciência que estuda as técnicas, metodologias, 
+         instrumentos computacionais e aplicações tecnológicas, que informatizem os processos
+          e desenvolvam soluções de processamento de dados de entrada e saída pautados no 
+          computador. </corpo>
+         <imagem_1 fileName="img_e.jpg">img_e.jpg</imagem_1>
+     </postagem>
+</conteudo>
